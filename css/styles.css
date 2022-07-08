@@ -1,0 +1,16 @@
+
+
+/* шрифты */
+   @import './_fonts.css';
+/* зминни  */
+   @import './_variables.css';
+/* зброс стылив*/
+   @import './_normalise.css';
+
+   @import './components/header.css';
+   @import './components/hero.css';
+   @import './components/benefits.css';
+   @import './components/team.css';
+   @import './components/work.css';
+   @import './components/footer.css';
+   @import './components/portfolio.css';
